@@ -1,0 +1,2 @@
+# firstProj
+started Git
